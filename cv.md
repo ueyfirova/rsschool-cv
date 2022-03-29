@@ -39,7 +39,7 @@ I've tried a lot of professions to understand that programming is my passion. Iâ
 
 * __Data Quality Analyst__ - AgileEngine, June 2018 - March 2020
 * __Recruitment Researcher__ - MMD Smart, March 2020 - July 2020
-*__Recruiter__ - SoftServe, January 2021 - August 2021
+* __Recruiter__ - SoftServe, January 2021 - August 2021
 
 ## Education
 
