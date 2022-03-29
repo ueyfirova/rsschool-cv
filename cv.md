@@ -41,7 +41,14 @@ I've tried a lot of professions to understand that programming is my passion. Iâ
 * __Recruitment Researcher__ - MMD Smart, March 2020 - July 2020
 *__Recruiter__ - SoftServe, January 2021 - August 2021
 
+## Education
 
+* __V. N. Karazin Kharkiv National University__ - International economics
+* __SourceIT__ - Frontend development course
+
+## Language
+
+Engilsh - Upper-Intermediate
 
 
 
